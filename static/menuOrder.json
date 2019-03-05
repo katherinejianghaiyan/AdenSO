@@ -1,0 +1,22 @@
+{
+  "costCenterCode": "",
+  "windowGuid": "",
+  "reqireDate": "",
+  "soItemGuid": "",
+  "itemGuid": "",
+  "itemCode": "",
+  "itemType": "",
+  "itemName_ZH": "",
+  "itemName_EN": "",
+  "requiredQty": 0.00,
+  "itemCost": 0.00,
+  "otherCost": 0.00,
+  "headGuid": "",
+  "createTime": "",
+  "createUser": "",
+  "deleteTime": "",
+  "deleteUser": "",
+  "changeFlag": "",
+  "linkId": null,
+  "lstMenuOrderLine": []
+}

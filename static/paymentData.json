@@ -1,0 +1,50 @@
+[
+  {
+    "code": "00",
+    "name": "Payment condition 00"
+  },
+  {
+    "code": "14",
+    "name": "Payment within 14 days"
+  },
+  {
+    "code": "30",
+    "name": "Payment within 30 days"
+  },
+  {
+    "code": "31",
+    "name": "Payment next month 15th"
+  },
+  {
+    "code": "32",
+    "name": "Payment next next month 15th"
+  },
+  {
+    "code": "33",
+    "name": "Payment next month 20th"
+  },
+  {
+    "code": "5",
+    "name": "Payment within 5 days"
+  },
+  {
+    "code": "50",
+    "name": "Payment within 50 days"
+  },
+  {
+    "code": "51",
+    "name": "Prepayment 50%. 50% after Inv"
+  },
+  {
+    "code": "52",
+    "name": "Prepayment 30%. 65%. 5%"
+  },
+  {
+    "code": "60",
+    "name": "Payment within 60 days"
+  },
+  {
+    "code": "7",
+    "name": "Payment within 7 days"
+  }
+]

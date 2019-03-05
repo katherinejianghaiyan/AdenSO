@@ -1,0 +1,112 @@
+[
+  {
+    "value": "110436",
+    "date": "2018-01-31",
+    "label": "上海申美饮料食品有限公司",
+    "children": [
+      {
+        "supplierCode": "110436",
+        "value": "1200319",
+        "label": "猪肉",
+        "unit": "PEC",
+        "qty": 98,
+        "adjQty": 0,
+        "totalQty": 98,
+        "price": 18,
+        "totalAmt": 0
+      },
+      {
+        "supplierCode": "110436",
+        "value": "1200436",
+        "label": "鸡肉",
+        "unit": "PEC",
+        "qty": 156,
+        "adjQty": 0,
+        "totalQty": 156,
+        "price": 16,
+        "totalAmt": 0
+      },
+      {
+        "supplierCode": "110436",
+        "value": "1200102",
+        "label": "海蜇皮",
+        "unit": "PEC",
+        "qty": 300,
+        "adjQty": 0,
+        "totalQty": 300,
+        "price": 5,
+        "totalAmt": 0
+      }
+    ]
+  },
+  {
+    "value": "110039",
+    "date": "2018-01-31",
+    "label": "上海江崎格力高南奉食品有限公司",
+    "children": [
+      {
+        "supplierCode": "110039",
+        "value": "1200118",
+        "label": "芹菜",
+        "unit": "PEC",
+        "qty": 200,
+        "adjQty": 0,
+        "totalQty": 200,
+        "price": 3,
+        "totalAmt": 0
+      },
+      {
+        "supplierCode": "110039",
+        "value": "1200119",
+        "label": "毛豆",
+        "unit": "PEC",
+        "qty": 240,
+        "adjQty": 0,
+        "totalQty": 240,
+        "price": 3,
+        "totalAmt": 0
+      }
+    ]
+  },
+  {
+    "value": "110319",
+    "date": "2018-01-31",
+    "label": "北京安德鲁水果食品有限公司",
+    "children": [
+      {
+        "supplierCode": "110319",
+        "value": "1201123",
+        "label": "小排",
+        "unit": "PEC",
+        "qty": 160,
+        "adjQty": 0,
+        "totalQty": 160,
+        "price": 21,
+        "totalAmt": 0
+      },
+      {
+        "supplierCode": "110319",
+        "value": "1201287",
+        "label": "青椒",
+        "unit": "PEC",
+        "qty": 110,
+        "adjQty": 0,
+        "totalQty": 110,
+        "price": 3,
+        "totalAmt": 0
+      }
+    ]
+  },
+  {
+    "value": "110394",
+    "date": "2018-01-31",
+    "label": "可口可乐饮料(上海)有限公司",
+    "children": [ ]
+  },
+  {
+    "value": "110540",
+    "date": "2018-01-31",
+    "label": "星巴克（上海）咖啡有限公司",
+    "children": [ ]
+  }
+]

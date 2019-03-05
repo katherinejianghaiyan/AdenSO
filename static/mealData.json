@@ -1,0 +1,290 @@
+[
+  {
+    "code": "m00001",
+    "type": "zc,zc_t01",
+    "name": "山药炖小排",
+    "price": 9
+  },
+  {
+    "code": "m00002",
+    "type": "zc,zc_t01",
+    "name": "特色回锅肉",
+    "price": 9
+  },
+  {
+    "code": "m00003",
+    "type": "zc,zc_t01",
+    "name": "大菜狮子头",
+    "price": 9
+  },
+  {
+    "code": "m00004",
+    "type": "zc,zc_t01",
+    "name": "面拖炸大排",
+    "price": 9
+  },
+  {
+    "code": "m00005",
+    "type": "zc,zc_t01",
+    "name": "酱汁闷鸭根",
+    "price": 9
+  },
+  {
+    "code": "m00006",
+    "type": "zc,zc_t01",
+    "name": "红焖醇香鸡",
+    "price": 9
+  },
+  {
+    "code": "m00007",
+    "type": "zc,zc_t01",
+    "name": "五香鸭脯丁",
+    "price": 9
+  },
+  {
+    "code": "m00008",
+    "type": "zc,zc_t01",
+    "name": "怪味油泼鸡",
+    "price": 9
+  },
+  {
+    "code": "m00009",
+    "type": "zc,zc_t01",
+    "name": "山城辣子鸡",
+    "price": 9
+  },
+  {
+    "code": "m00010",
+    "type": "zc,zc_t01",
+    "name": "滋补老鸭汤",
+    "price": 9
+  },
+  {
+    "code": "m00011",
+    "type": "zc,zc_t01",
+    "name": "川味口水鸡",
+    "price": 9
+  },
+  {
+    "code": "m00012",
+    "type": "zc,zc_t01",
+    "name": "美味香烤鸭",
+    "price": 9
+  },
+  {
+    "code": "m00013",
+    "type": "zc,zc_t01",
+    "name": "酒酿汁带鱼",
+    "price": 9
+  },
+  {
+    "code": "m00014",
+    "type": "zc,zc_t01",
+    "name": "西湖醋汁鱼",
+    "price": 9
+  },
+  {
+    "code": "m00015",
+    "type": "zc,zc_t01",
+    "name": "剁椒蒸鱼段",
+    "price": 9
+  },
+  {
+    "code": "m00016",
+    "type": "zc,zc_t01",
+    "name": "尖椒炒目鱼",
+    "price": 9
+  },
+  {
+    "code": "m00017",
+    "type": "zc,zc_t02",
+    "name": "海带鸡丝",
+    "price": 4
+  },
+  {
+    "code": "m00018",
+    "type": "zc,zc_t02",
+    "name": "黄瓜鸡蛋",
+    "price": 4
+  },
+  {
+    "code": "m00019",
+    "type": "zc,zc_t02",
+    "name": "手撕包菜",
+    "price": 4
+  },
+  {
+    "code": "m00020",
+    "type": "zc,zc_t02",
+    "name": "芹香肉丝",
+    "price": 4
+  },
+  {
+    "code": "m00021",
+    "type": "zc,zc_t02",
+    "name": "卤汁素鸡",
+    "price": 4
+  },
+  {
+    "code": "m00022",
+    "type": "zc,zc_t02",
+    "name": "肉末豆腐",
+    "price": 4
+  },
+  {
+    "code": "m00023",
+    "type": "zc,zc_t02",
+    "name": "番茄鸡蛋",
+    "price": 4
+  },
+  {
+    "code": "m00024",
+    "type": "zc,zc_t02",
+    "name": "韭菜炒蛋",
+    "price": 4
+  },
+  {
+    "code": "m00025",
+    "type": "zc,zc_t02",
+    "name": "花菜鸡片",
+    "price": 4
+  },
+  {
+    "code": "m00026",
+    "type": "zc,zc_t02",
+    "name": "雪笋鸡丝",
+    "price": 4
+  },
+  {
+    "code": "m00027",
+    "type": "zc,zc_t02",
+    "name": "咸肉百叶",
+    "price": 4
+  },
+  {
+    "code": "m00028",
+    "type": "zc,zc_t02",
+    "name": "葫芦鸡丁",
+    "price": 4
+  },
+  {
+    "code": "m00029",
+    "type": "zc,zc_t03",
+    "name": "芹香果仁",
+    "price": 3
+  },
+  {
+    "code": "m00030",
+    "type": "zc,zc_t03",
+    "name": "辣炒葫芦",
+    "price": 3
+  },
+  {
+    "code": "m00031",
+    "type": "zc,zc_t03",
+    "name": "五香萝卜",
+    "price": 3
+  },
+  {
+    "code": "m00032",
+    "type": "zc,zc_t03",
+    "name": "回锅土豆",
+    "price": 3
+  },
+  {
+    "code": "m00033",
+    "type": "zc,zc_t03",
+    "name": "葱油银牙",
+    "price": 3
+  },
+  {
+    "code": "m00034",
+    "type": "zc,zc_t03",
+    "name": "蜜汁南瓜",
+    "price": 3
+  },
+  {
+    "code": "m00035",
+    "type": "zc,zc_t03",
+    "name": "辣汁黄瓜",
+    "price": 3
+  },
+  {
+    "code": "m00036",
+    "type": "zc,zc_t03",
+    "name": "番茄包菜",
+    "price": 3
+  },
+  {
+    "code": "m00037",
+    "type": "zc,zc_t03",
+    "name": "油煸青菜",
+    "price": 3
+  },
+  {
+    "code": "m00038",
+    "type": "zc,zc_t03",
+    "name": "杭州白菜",
+    "price": 3
+  },
+  {
+    "code": "m00039",
+    "type": "zc,zc_t03",
+    "name": "油煸蓬哈菜",
+    "price": 3
+  },
+  {
+    "code": "m00040",
+    "type": "zc,zc_t03",
+    "name": "拔丝山药",
+    "price": 3
+  },
+  {
+    "code": "m00041",
+    "type": "zc,zc_t04",
+    "name": "紫菜虾皮汤",
+    "price": 2
+  },
+  {
+    "code": "m00042",
+    "type": "zc,zc_t04",
+    "name": "番茄蛋汤",
+    "price": 2
+  },
+  {
+    "code": "m00043",
+    "type": "zc,zc_t04",
+    "name": "雪菜冬瓜汤",
+    "price": 2
+  },
+  {
+    "code": "m00044",
+    "type": "zc,zc_t04",
+    "name": "萍菇豆腐汤",
+    "price": 2
+  },
+  {
+    "code": "m00045",
+    "type": "zc,zc_t04",
+    "name": "罗宋汤",
+    "price": 2
+  },
+  {
+    "code": "m00046",
+    "type": "zc,zc_t04",
+    "name": "猪蹄汤",
+    "price": 2
+  },
+  {
+    "code": "m00047",
+    "type": "zc,zc_t04",
+    "name": "冬阴功汤",
+    "price": 2
+  },
+  {
+    "code": "m00048",
+    "type": "zc,zc_t04",
+    "name": "芹菜豆腐羹",
+    "price": 2
+  }
+]

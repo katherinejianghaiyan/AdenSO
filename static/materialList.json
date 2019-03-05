@@ -1,0 +1,42 @@
+[
+  {
+    "code": "1010100126",
+    "name1": "香葱",
+    "name2": "葱段",
+    "weight": 5,
+    "weight2": 0,
+    "effect": 10,
+    "effect2": 0,
+    "disabled": true
+  },
+  {
+    "code": "1010100127",
+    "name1": "生姜",
+    "name2": "姜片",
+    "weight": 5,
+    "weight2": 0,
+    "effect": 5,
+    "effect2": 0,
+    "disabled": true
+  },
+  {
+    "code": "1010100128",
+    "name1": "净大蒜头肉",
+    "name2": "蒜",
+    "weight": 3,
+    "weight2": 0,
+    "effect": 15,
+    "effect2": 0,
+    "disabled": true
+  },
+  {
+    "code": "1010100129",
+    "name1": "冷鲜猪大排",
+    "name2": "猪大排",
+    "weight": 80,
+    "weight2": 0,
+    "effect": -10,
+    "effect2": 0,
+    "disabled": true
+  }
+]

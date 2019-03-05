@@ -1,0 +1,126 @@
+[{
+  "value": "zc",
+  "label": "中餐",
+  "children": [{
+    "value": "zc_t01",
+    "label": "大荤",
+    "children": [{
+      "value": "zc_t01_tt01",
+      "label": "猪肉"
+    }, {
+      "value": "zc_t01_tt02",
+      "label": "水产"
+    }, {
+      "value": "zc_t01_tt03",
+      "label": "禽类"
+    }, {
+      "value": "zc_t01_tt04",
+      "label": "牛羊畜"
+    }, {
+      "value": "zc_t01_tt05",
+      "label": "其它"
+    }]
+  }, {
+    "value": "zc_t02",
+    "label": "小荤",
+    "children": [{
+      "value": "zc_t02_tt01",
+      "label": "猪肉"
+    }, {
+      "value": "zc_t02_tt02",
+      "label": "水产"
+    }, {
+      "value": "zc_t02_tt03",
+      "label": "禽类"
+    }, {
+      "value": "zc_t02_tt04",
+      "label": "牛羊畜"
+    }, {
+      "value": "zc_t02_tt05",
+      "label": "其它"
+    }]
+  }, {
+    "value": "zc_t03",
+    "label": "素菜",
+    "children": [{
+      "value": "zc_t03_tt01",
+      "label": "叶菜类"
+    }, {
+      "value": "zc_t03_tt02",
+      "label": "茎、根、果菜类"
+    }, {
+      "value": "zc_t03_tt03",
+      "label": "豆制品"
+    }]
+  }, {
+    "value": "zc_t04",
+    "label": "汤",
+    "children": [{
+      "value": "zc_t04_tt01",
+      "label": "菜汤类"
+    }]
+  }]
+}, {
+  "value": "xc",
+  "label": "西餐",
+  "children": [{
+    "value": "xc_t01",
+    "label": "汤类"
+  }, {
+    "value": "xc_t02",
+    "label": "主菜"
+  }, {
+    "value": "xc_t03",
+    "label": "配菜",
+    "children": [{
+      "value": "xc_t03_tt01",
+      "label": "沙拉"
+    }, {
+      "value": "xc_t03_tt02",
+      "label": "蔬菜"
+    }]
+  }, {
+    "value": "xc_t04",
+    "label": "主食"
+  }, {
+    "value": "xc_t05",
+    "label": "甜点"
+  }]
+}, {
+  "value": "tsc",
+  "label": "特色餐",
+  "children": [{
+    "value": "tsc_t01",
+    "label": "面食",
+    "children": [{
+      "value": "tsc_t01_tt01",
+      "label": "面条"
+    }, {
+      "value": "tsc_t01_tt02",
+      "label": "其他面食"
+    }]
+  }, {
+    "value": "tsc_t02",
+    "label": "锅仔",
+    "children": [{
+      "value": "tsc_t02_tt01",
+      "label": "砂锅顿盅"
+    }, {
+      "value": "tsc_t02_tt02",
+      "label": "干锅"
+    }]
+  }, {
+    "value": "tsc_t03",
+    "label": "盖浇饭炒饭",
+    "children": [{
+      "value": "tsc_t03_tt01",
+      "label": "传统、新派盖浇饭"
+    } , {
+      "value": "tsc_t03_tt02",
+      "label": "炒饭"
+    }]
+  }, {
+    "value": "tsc_t04",
+    "label": "小吃其它"
+  }]
+}]

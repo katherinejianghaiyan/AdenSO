@@ -1,0 +1,29 @@
+/************** el-input **************/
+/* 输入时的字体颜色 */
+.el-input__inner {
+    color: #323438;
+}
+/* disabled时的字体、背景颜色 */
+.el-input.is-disabled .el-input__inner {
+    color: #949494;
+    font-size: 13px;
+    background-color: #FFF;
+}
+
+/************** el-table **************/
+/* Head文本的字体颜色 */
+.el-table thead {
+    color: #57595d;
+    font-size: 13px;
+}
+
+/* 内容文本的对齐方式 */
+.el-table .cell, .el-table th>div {
+    padding-left: 3px;
+    padding-right: 3px;
+}
+
+.el-table .cell, .el-table th div, .el-table--border td:first-child .cell, .el-table--border th:first-child .cell {
+    padding-left: 3px;
+    padding-right: 3px;
+}

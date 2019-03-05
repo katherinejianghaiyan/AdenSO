@@ -1,0 +1,1128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9378ef32-927f-40fd-b123-32427318b4fe" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="BarCode.vue" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/views/BarCode.vue">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="57">
+              <caret line="138" column="59" selection-start-line="138" selection-start-column="59" selection-end-line="138" selection-end-column="59" />
+              <folding>
+                <element signature="n#style#0;n#el-select#0;n#template#0;n#el-col#0;n#el-row#0;n#div#0;n#template#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#el-input#0;n#div#0;n#el-col#0;n#el-row#0;n#div#0;n#template#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#el-dialog#0;n#div#0;n#template#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#span#0;n#div#0;n#el-dialog#0;n#div#0;n#template#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#span#1;n#div#0;n#el-dialog#0;n#div#0;n#template#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#1;n#el-dialog#0;n#div#0;n#template#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="api.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/api/api.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="91">
+              <caret line="545" column="2" selection-start-line="545" selection-start-column="2" selection-end-line="545" selection-end-column="2" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CCvsBarCode.vue" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/views/WechatProgram/CCvsBarCode.vue">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="3496">
+              <caret line="184" column="46" selection-start-line="180" selection-start-column="16" selection-end-line="184" selection-end-column="46" />
+              <folding>
+                <element signature="n#style#0;n#el-row#0;n#div#0;n#template#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#el-select#0;n#template#0;n#el-col#0;n#el-row#0;n#div#0;n#template#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#el-dialog#0;n#div#0;n#template#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#span#0;n#div#0;n#el-dialog#0;n#div#0;n#template#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#span#1;n#div#0;n#el-dialog#0;n#div#0;n#template#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#1;n#el-dialog#0;n#div#0;n#template#0;n#!!top" expanded="true" />
+                <element signature="e#2898#2973#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Create.vue" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/views/SalesOrder/Create.vue">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="52877">
+              <caret line="2821" column="37" selection-start-line="2821" selection-start-column="19" selection-end-line="2821" selection-end-column="37" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="common.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/assets/js/common.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1083">
+              <caret line="59" column="31" selection-start-line="59" selection-start-column="13" selection-end-line="59" selection-end-column="31" />
+              <folding>
+                <element signature="e#5211#5229#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="config.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/api/config.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="437">
+              <caret line="25" column="2" selection-start-line="25" selection-start-column="2" selection-end-line="25" selection-end-column="2" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>window.document.getElementById</find>
+      <find>TargetDiv</find>
+      <find>blurDiv</find>
+      <find>img1</find>
+      <find>websocketonmessage</find>
+      <find>onmessage</find>
+      <find>wsuri</find>
+      <find>costCenter</find>
+      <find>console</find>
+      <find>window.document</find>
+      <find>indexOf('?'</find>
+      <find>initWebSocket</find>
+      <find>getCCOptions</find>
+      <find>GetCompanySite</find>
+      <find>siteGuid</find>
+      <find>guid</find>
+      <find>dialogTablebarCode</find>
+      <find>cardno</find>
+      <find>console.log</find>
+      <find>reset</find>
+      <find>set</find>
+      <find>GetCCWhs</find>
+      <find>tbl</find>
+      <find>seeCCWhs</find>
+      <find>session</find>
+      <find>getRowFromArray</find>
+      <find>ccWhsOption</find>
+      <find>isNullOrWhiteSpace</find>
+      <find>OfficalAccountQRCode</find>
+      <find>GetCCOptions</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>userID</replace>
+      <replace>Count</replace>
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/components/SurveyAnalysisChart.vue" />
+        <option value="$PROJECT_DIR$/src/components/SurveyCollectionChart.vue" />
+        <option value="$PROJECT_DIR$/src/views/Site/FGItemPriceMaintain.vue" />
+        <option value="$PROJECT_DIR$/src/components/ChangeSupplierofItem.vue" />
+        <option value="$PROJECT_DIR$/src/views/Company/subjectMaintenance.vue" />
+        <option value="$PROJECT_DIR$/src/views/Site/WeeklyMenuMaintain_v2.vue" />
+        <option value="$PROJECT_DIR$/src/views/SalesOrder/Search.vue" />
+        <option value="$PROJECT_DIR$/src/views/Home.vue" />
+        <option value="$PROJECT_DIR$/src/components/UploadPic.vue" />
+        <option value="$PROJECT_DIR$/build/webpack.base.conf.js" />
+        <option value="$PROJECT_DIR$/src/views/SalesOrder/Create.vue" />
+        <option value="$PROJECT_DIR$/src/views/Site/SitePosts.vue" />
+        <option value="$PROJECT_DIR$/src/views/Site/SurveyAnalysis.vue" />
+        <option value="$PROJECT_DIR$/src/components/ItemsSearchDialog.vue" />
+        <option value="$PROJECT_DIR$/src/assets/js/common.js" />
+        <option value="$PROJECT_DIR$/src/views/Menu/WeeklyMenuMaintain_new.vue" />
+        <option value="$PROJECT_DIR$/src/views/Menu/MenuMaintain.vue" />
+        <option value="$PROJECT_DIR$/src/views/CCvsBarCode.vue" />
+        <option value="$PROJECT_DIR$/src/views/CCvsBarCode_new.vue" />
+        <option value="$PROJECT_DIR$/src/views/Login.vue" />
+        <option value="$PROJECT_DIR$/src/routes.js" />
+        <option value="$PROJECT_DIR$/src/main.js" />
+        <option value="$PROJECT_DIR$/src/views/WechatProgram/CCvsBarCode.vue" />
+        <option value="$PROJECT_DIR$/src/api/api.js" />
+        <option value="$PROJECT_DIR$/src/views/BarCode.vue" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER">
+    <package-json value="$PROJECT_DIR$/package.json" />
+  </component>
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodeModulesDirectoryManager">
+    <handled-path value="$PROJECT_DIR$/node_modules" />
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths>
+      <path value="$PROJECT_DIR$/package.json" />
+    </packageJsonPaths>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-11" />
+    <option name="y" value="95" />
+    <option name="width" value="1382" />
+    <option name="height" value="744" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="adenSO" type="b2602c69:ProjectViewProjectNode" />
+              <item name="adenSO" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="adenSO" type="b2602c69:ProjectViewProjectNode" />
+              <item name="adenSO" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="adenSO" type="b2602c69:ProjectViewProjectNode" />
+              <item name="adenSO" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="api" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="adenSO" type="b2602c69:ProjectViewProjectNode" />
+              <item name="adenSO" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="views" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="adenSO" type="b2602c69:ProjectViewProjectNode" />
+              <item name="adenSO" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="views" type="462c0819:PsiDirectoryNode" />
+              <item name="SalesOrder" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="adenSO" type="b2602c69:ProjectViewProjectNode" />
+              <item name="adenSO" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="views" type="462c0819:PsiDirectoryNode" />
+              <item name="WechatProgram" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SearchEverywhereHistoryKey" value="chGMT&#9;null&#9;null&#10;distinct&#9;null&#9;null&#10;formatAmount&#9;null&#9;null&#10;formatMoney&#9;null&#9;null&#10;formatMoney &#9;null&#9;null&#10;FileList&#9;null&#9;null" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\WorkSpace\AdenSO\adenSO\src\views" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\WorkSpace\AdenSO\adenSO\src" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="StructuralSearchPlugin">
+    <searchConfiguration name="user defined" created="1550402349561" text="chGMT" recursive="true" caseInsensitive="true" type="XML" history="1" />
+    <searchConfiguration name="user defined" created="1550294242459" text="arrayToString" recursive="true" caseInsensitive="true" type="XML" history="1" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9378ef32-927f-40fd-b123-32427318b4fe" name="Default" comment="" />
+      <created>1541045985289</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1541045985289</updated>
+      <workItem from="1541045989499" duration="14173000" />
+      <workItem from="1541125914317" duration="10973000" />
+      <workItem from="1541251512196" duration="111000" />
+      <workItem from="1541325971710" duration="18584000" />
+      <workItem from="1541390219126" duration="15228000" />
+      <workItem from="1541424392090" duration="5795000" />
+      <workItem from="1541470951423" duration="11583000" />
+      <workItem from="1541511065851" duration="720000" />
+      <workItem from="1541560142615" duration="1631000" />
+      <workItem from="1541562740356" duration="11530000" />
+      <workItem from="1541596229396" duration="8418000" />
+      <workItem from="1541651341538" duration="4404000" />
+      <workItem from="1541682932283" duration="3394000" />
+      <workItem from="1541728646812" duration="8535000" />
+      <workItem from="1541768497213" duration="8988000" />
+      <workItem from="1541814417025" duration="3014000" />
+      <workItem from="1541825406994" duration="26091000" />
+      <workItem from="1541991016404" duration="5994000" />
+      <workItem from="1542009156760" duration="4716000" />
+      <workItem from="1542031754971" duration="2027000" />
+      <workItem from="1542075460591" duration="21415000" />
+      <workItem from="1542117734009" duration="2959000" />
+      <workItem from="1542159953602" duration="8031000" />
+      <workItem from="1542169061379" duration="3775000" />
+      <workItem from="1542203594136" duration="1530000" />
+      <workItem from="1542246517758" duration="11276000" />
+      <workItem from="1542288828349" duration="701000" />
+      <workItem from="1542333001395" duration="13612000" />
+      <workItem from="1542425394636" duration="4017000" />
+      <workItem from="1542462839716" duration="2325000" />
+      <workItem from="1542510276169" duration="3507000" />
+      <workItem from="1542529379047" duration="557000" />
+      <workItem from="1542530106335" duration="8975000" />
+      <workItem from="1542541518705" duration="2134000" />
+      <workItem from="1542592549437" duration="10930000" />
+      <workItem from="1542633238884" duration="5098000" />
+      <workItem from="1542679015345" duration="11670000" />
+      <workItem from="1542700483829" duration="4183000" />
+      <workItem from="1542720111446" duration="4397000" />
+      <workItem from="1542767560253" duration="3428000" />
+      <workItem from="1542806703592" duration="2775000" />
+      <workItem from="1542850994093" duration="5336000" />
+      <workItem from="1542876522966" duration="3053000" />
+      <workItem from="1542893312336" duration="6920000" />
+      <workItem from="1542946764338" duration="9800000" />
+      <workItem from="1542960079963" duration="18000" />
+      <workItem from="1542961008645" duration="9000" />
+      <workItem from="1542961022048" duration="4719000" />
+      <workItem from="1543030637101" duration="8164000" />
+      <workItem from="1543042618188" duration="12000" />
+      <workItem from="1543131011522" duration="9536000" />
+      <workItem from="1543197365538" duration="5523000" />
+      <workItem from="1543206128623" duration="3392000" />
+      <workItem from="1543458992391" duration="1473000" />
+      <workItem from="1543460856883" duration="12238000" />
+      <workItem from="1543497969772" duration="34000" />
+      <workItem from="1543498010544" duration="3967000" />
+      <workItem from="1543503333224" duration="686000" />
+      <workItem from="1543504289081" duration="1138000" />
+      <workItem from="1543546257828" duration="7204000" />
+      <workItem from="1543560003795" duration="7562000" />
+      <workItem from="1543584271861" duration="8174000" />
+      <workItem from="1543635997570" duration="1022000" />
+      <workItem from="1543676478399" duration="168000" />
+      <workItem from="1543717283533" duration="39286000" />
+      <workItem from="1543801660792" duration="334000" />
+      <workItem from="1543803494092" duration="8669000" />
+      <workItem from="1543819882848" duration="460000" />
+      <workItem from="1543822416831" duration="5180000" />
+      <workItem from="1543847232721" duration="852000" />
+      <workItem from="1543909796112" duration="4675000" />
+      <workItem from="1543975279022" duration="11747000" />
+      <workItem from="1544014196889" duration="6866000" />
+      <workItem from="1544068691033" duration="8388000" />
+      <workItem from="1544098863620" duration="9118000" />
+      <workItem from="1544148773450" duration="11287000" />
+      <workItem from="1544186655125" duration="5492000" />
+      <workItem from="1544194663804" duration="387000" />
+      <workItem from="1544234528568" duration="1744000" />
+      <workItem from="1544268956501" duration="2466000" />
+      <workItem from="1544433798214" duration="6000" />
+      <workItem from="1544582869034" duration="18288000" />
+      <workItem from="1544620809772" duration="7423000" />
+      <workItem from="1544682614075" duration="6379000" />
+      <workItem from="1544706789966" duration="1428000" />
+      <workItem from="1544757854079" duration="11124000" />
+      <workItem from="1544793622717" duration="3534000" />
+      <workItem from="1544838569565" duration="4747000" />
+      <workItem from="1544849528070" duration="964000" />
+      <workItem from="1544877677888" duration="171000" />
+      <workItem from="1544964750340" duration="1387000" />
+      <workItem from="1545012072320" duration="13236000" />
+      <workItem from="1545050488720" duration="5770000" />
+      <workItem from="1545101356239" duration="2759000" />
+      <workItem from="1545104703347" duration="13081000" />
+      <workItem from="1545139306802" duration="2426000" />
+      <workItem from="1545175327629" duration="3037000" />
+      <workItem from="1545186873119" duration="2596000" />
+      <workItem from="1545223830830" duration="721000" />
+      <workItem from="1545967735917" duration="2180000" />
+      <workItem from="1545984182697" duration="632000" />
+      <workItem from="1546352158599" duration="933000" />
+      <workItem from="1546353188044" duration="143000" />
+      <workItem from="1546353521258" duration="304000" />
+      <workItem from="1546353973867" duration="828000" />
+      <workItem from="1546485391519" duration="10247000" />
+      <workItem from="1546504517587" duration="1450000" />
+      <workItem from="1547540339688" duration="880000" />
+      <workItem from="1547785603586" duration="100000" />
+      <workItem from="1548231178194" duration="1734000" />
+      <workItem from="1548252554413" duration="2004000" />
+      <workItem from="1548300181408" duration="10961000" />
+      <workItem from="1548383903909" duration="336000" />
+      <workItem from="1548384271091" duration="21512000" />
+      <workItem from="1548585942975" duration="15987000" />
+      <workItem from="1548643319517" duration="4548000" />
+      <workItem from="1548726289537" duration="14102000" />
+      <workItem from="1548771413499" duration="3363000" />
+      <workItem from="1548813039097" duration="1257000" />
+      <workItem from="1548814828827" duration="793000" />
+      <workItem from="1549110774357" duration="2204000" />
+      <workItem from="1549186084147" duration="1270000" />
+      <workItem from="1549335746804" duration="25898000" />
+      <workItem from="1549377143219" duration="1216000" />
+      <workItem from="1549945498521" duration="1215000" />
+      <workItem from="1549980022456" duration="698000" />
+      <workItem from="1550024695476" duration="21332000" />
+      <workItem from="1550063089306" duration="4830000" />
+      <workItem from="1550112444863" duration="14041000" />
+      <workItem from="1550289366838" duration="20622000" />
+      <workItem from="1550398272987" duration="9260000" />
+      <workItem from="1550455347227" duration="26744000" />
+      <workItem from="1550567534900" duration="2793000" />
+      <workItem from="1550655165369" duration="629000" />
+      <workItem from="1550669912769" duration="1211000" />
+      <workItem from="1550714327794" duration="18017000" />
+      <workItem from="1550736495074" duration="6440000" />
+      <workItem from="1550753863979" duration="4450000" />
+      <workItem from="1550802678177" duration="631000" />
+      <workItem from="1551416983889" duration="950000" />
+      <workItem from="1551581680329" duration="18226000" />
+      <workItem from="1551614878037" duration="603000" />
+      <workItem from="1551664534030" duration="2651000" />
+      <workItem from="1551667390201" duration="1696000" />
+      <workItem from="1551669194276" duration="4246000" />
+      <workItem from="1551681909560" duration="4808000" />
+    </task>
+    <task id="LOCAL-00006" summary="commit">
+      <created>1541758783679</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1541758783679</updated>
+    </task>
+    <task id="LOCAL-00007" summary="commit">
+      <created>1541822525975</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1541822525975</updated>
+    </task>
+    <task id="LOCAL-00008" summary="commit">
+      <created>1541831524923</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1541831524923</updated>
+    </task>
+    <task id="LOCAL-00009" summary="commit">
+      <created>1541859738962</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1541859738962</updated>
+    </task>
+    <task id="LOCAL-00010" summary="commit">
+      <created>1542166849056</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1542166849056</updated>
+    </task>
+    <task id="LOCAL-00011" summary="commit">
+      <created>1542255421320</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1542255421320</updated>
+    </task>
+    <task id="LOCAL-00012" summary="commit">
+      <created>1542258546550</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1542258546550</updated>
+    </task>
+    <task id="LOCAL-00013" summary="commit">
+      <created>1542360808757</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1542360808757</updated>
+    </task>
+    <task id="LOCAL-00014" summary="commit">
+      <created>1543205847588</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1543205847588</updated>
+    </task>
+    <task id="LOCAL-00015" summary="commit">
+      <created>1543501994452</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1543501994452</updated>
+    </task>
+    <task id="LOCAL-00016" summary="commit">
+      <created>1543502088858</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1543502088858</updated>
+    </task>
+    <task id="LOCAL-00017" summary="commit">
+      <created>1543764881676</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1543764881676</updated>
+    </task>
+    <task id="LOCAL-00018" summary="commit">
+      <created>1543816848845</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1543816848845</updated>
+    </task>
+    <task id="LOCAL-00019" summary="commit">
+      <created>1543817204328</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1543817204328</updated>
+    </task>
+    <task id="LOCAL-00020" summary="commit">
+      <created>1544110728392</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1544110728392</updated>
+    </task>
+    <task id="LOCAL-00021" summary="commit">
+      <created>1544194548557</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1544194548557</updated>
+    </task>
+    <task id="LOCAL-00022" summary="commit">
+      <created>1544273876007</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1544273876008</updated>
+    </task>
+    <task id="LOCAL-00023" summary="commit">
+      <created>1544714398791</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1544714398791</updated>
+    </task>
+    <task id="LOCAL-00024" summary="commit">
+      <created>1544781013395</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1544781013395</updated>
+    </task>
+    <task id="LOCAL-00025" summary="commit">
+      <created>1544845125715</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1544845125716</updated>
+    </task>
+    <task id="LOCAL-00026" summary="commit">
+      <created>1544850329166</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1544850329166</updated>
+    </task>
+    <task id="LOCAL-00027" summary="commit">
+      <created>1545061043884</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1545061043884</updated>
+    </task>
+    <task id="LOCAL-00028" summary="commit">
+      <created>1545121136593</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1545121136593</updated>
+    </task>
+    <task id="LOCAL-00029" summary="commit">
+      <created>1545143341208</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1545143341209</updated>
+    </task>
+    <task id="LOCAL-00030" summary="commit">
+      <created>1545178639704</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1545178639704</updated>
+    </task>
+    <task id="LOCAL-00031" summary="commit">
+      <created>1548303175490</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1548303175490</updated>
+    </task>
+    <task id="LOCAL-00032" summary="commit">
+      <created>1548303229754</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1548303229754</updated>
+    </task>
+    <task id="LOCAL-00033" summary="commit">
+      <created>1548601935719</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1548601935719</updated>
+    </task>
+    <task id="LOCAL-00034" summary="commit">
+      <created>1548645151999</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1548645151999</updated>
+    </task>
+    <task id="LOCAL-00035" summary="commit">
+      <created>1549349368152</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1549349368153</updated>
+    </task>
+    <task id="LOCAL-00036" summary="commit">
+      <created>1549375776507</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1549375776507</updated>
+    </task>
+    <task id="LOCAL-00037" summary="commit">
+      <created>1550052164853</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1550052164853</updated>
+    </task>
+    <task id="LOCAL-00038" summary="commit">
+      <created>1550112737826</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1550112737826</updated>
+    </task>
+    <task id="LOCAL-00039" summary="commit">
+      <created>1550130921920</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1550130921920</updated>
+    </task>
+    <task id="LOCAL-00040" summary="commit">
+      <created>1550721559096</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1550721559096</updated>
+    </task>
+    <task id="LOCAL-00041" summary="commit">
+      <created>1550741165729</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1550741165729</updated>
+    </task>
+    <task id="LOCAL-00042" summary="commit">
+      <created>1550742766715</created>
+      <option name="number" value="00042" />
+      <option name="presentableId" value="LOCAL-00042" />
+      <option name="project" value="LOCAL" />
+      <updated>1550742766715</updated>
+    </task>
+    <task id="LOCAL-00043" summary="commit">
+      <created>1550742798613</created>
+      <option name="number" value="00043" />
+      <option name="presentableId" value="LOCAL-00043" />
+      <option name="project" value="LOCAL" />
+      <updated>1550742798613</updated>
+    </task>
+    <task id="LOCAL-00044" summary="commit">
+      <created>1550758215491</created>
+      <option name="number" value="00044" />
+      <option name="presentableId" value="LOCAL-00044" />
+      <option name="project" value="LOCAL" />
+      <updated>1550758215491</updated>
+    </task>
+    <task id="LOCAL-00045" summary="commit">
+      <created>1551607303478</created>
+      <option name="number" value="00045" />
+      <option name="presentableId" value="LOCAL-00045" />
+      <option name="project" value="LOCAL" />
+      <updated>1551607303478</updated>
+    </task>
+    <task id="LOCAL-00046" summary="commit">
+      <created>1551608742025</created>
+      <option name="number" value="00046" />
+      <option name="presentableId" value="LOCAL-00046" />
+      <option name="project" value="LOCAL" />
+      <updated>1551608742025</updated>
+    </task>
+    <task id="LOCAL-00047" summary="commit">
+      <created>1551669205369</created>
+      <option name="number" value="00047" />
+      <option name="presentableId" value="LOCAL-00047" />
+      <option name="project" value="LOCAL" />
+      <updated>1551669205369</updated>
+    </task>
+    <task id="LOCAL-00048" summary="commit">
+      <created>1551670919386</created>
+      <option name="number" value="00048" />
+      <option name="presentableId" value="LOCAL-00048" />
+      <option name="project" value="LOCAL" />
+      <updated>1551670919387</updated>
+    </task>
+    <task id="LOCAL-00049" summary="commit">
+      <created>1551672345897</created>
+      <option name="number" value="00049" />
+      <option name="presentableId" value="LOCAL-00049" />
+      <option name="project" value="LOCAL" />
+      <updated>1551672345897</updated>
+    </task>
+    <task id="LOCAL-00050" summary="commit">
+      <created>1551673602473</created>
+      <option name="number" value="00050" />
+      <option name="presentableId" value="LOCAL-00050" />
+      <option name="project" value="LOCAL" />
+      <updated>1551673602474</updated>
+    </task>
+    <task id="LOCAL-00051" summary="commit">
+      <created>1551683936684</created>
+      <option name="number" value="00051" />
+      <option name="presentableId" value="LOCAL-00051" />
+      <option name="project" value="LOCAL" />
+      <updated>1551683936684</updated>
+    </task>
+    <task id="LOCAL-00052" summary="commit">
+      <created>1551684253191</created>
+      <option name="number" value="00052" />
+      <option name="presentableId" value="LOCAL-00052" />
+      <option name="project" value="LOCAL" />
+      <updated>1551684253191</updated>
+    </task>
+    <task id="LOCAL-00053" summary="commit">
+      <created>1551684553662</created>
+      <option name="number" value="00053" />
+      <option name="presentableId" value="LOCAL-00053" />
+      <option name="project" value="LOCAL" />
+      <updated>1551684553663</updated>
+    </task>
+    <task id="LOCAL-00054" summary="commit">
+      <created>1551685371953</created>
+      <option name="number" value="00054" />
+      <option name="presentableId" value="LOCAL-00054" />
+      <option name="project" value="LOCAL" />
+      <updated>1551685371953</updated>
+    </task>
+    <option name="localTasksCounter" value="55" />
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="900355000" />
+  </component>
+  <component name="TodoView" selected-index="1">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.20684524" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.3289256" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.5066964" side_tool="true" weight="0.34545454" />
+      <window_info anchor="bottom" id="Version Control" order="7" weight="0.3289256" />
+      <window_info id="npm" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.49330357" weight="0.338843" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Messages" order="7" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3289256" />
+    </layout>
+    <layout-to-restore>
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info id="npm" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25669643" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.3289256" />
+      <window_info anchor="bottom" id="Version Control" order="10" weight="0.3289256" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="8" sideWeight="0.49925596" visible="true" weight="0.35041323" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50074404" side_tool="true" weight="0.3289256" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3289256" />
+      <window_info id="Favorites" order="3" side_tool="true" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/src/components/ItemsSearchDialog.vue</url>
+          <line>130</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="13" />
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/config/dev.env.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/index.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/views/Menu/WeeklyMenuMaintain.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="104">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/PurchaseNewItem.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3070">
+          <caret line="853" column="9" lean-forward="true" selection-start-line="853" selection-start-column="9" selection-end-line="853" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/ItemsSearchDialog.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2128">
+          <caret line="8" column="52" lean-forward="true" selection-start-line="8" selection-start-column="52" selection-end-line="8" selection-end-column="52" />
+          <folding>
+            <element signature="n#style#0;n#el-cascader#0;n#el-form-item#0;n#div#0;n#el-form#0;n#el-col#0;n#el-row#0;n#el-dialog#0;n#div#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#el-col#0;n#el-row#0;n#div#0;n#transition#0;n#el-dialog#0;n#div#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#pre#0;n#div#0;n#el-col#0;n#el-row#0;n#div#0;n#transition#0;n#el-dialog#0;n#div#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="e#33761#33775#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/RMItemDialog.vue">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/AutoCompleteInput.vue">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/views/Company/subjectMaintenance.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1568">
+          <caret line="29" column="28" selection-start-line="29" selection-start-column="28" selection-end-line="29" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/views/Menu/CClassSupplierMaintain.vue">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/views/SalesManagement/SalesOrder.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1060" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/views/Menu/DaylyMenuMaintain_new.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19000">
+          <caret line="1025" column="13" selection-start-line="1025" selection-start-column="13" selection-end-line="1025" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dist/static/js/app.ca250647c88b9a8bbbc8.js" />
+    <entry file="file://$PROJECT_DIR$/dist/static/dateFormat.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="8" column="32" selection-start-line="8" selection-start-column="32" selection-end-line="8" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/views/SalesOrder/QueryEdit.vue">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/views/SalesOrder/Search.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-10">
+          <caret line="181" column="135" selection-start-line="181" selection-start-column="133" selection-end-line="181" selection-end-column="135" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/views/UserRights/MenuUserAuthorityMaintain.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-29" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/views/Language/LangMaintain.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-29" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/views/Site/FGItemPriceMaintain.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="9">
+          <caret line="2" column="69" selection-start-line="2" selection-start-column="69" selection-end-line="2" selection-end-column="69" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/assets/js/Export2Excel.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/views/Site/SitePosts.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="381" column="52" selection-start-line="381" selection-start-column="44" selection-end-line="381" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DIa19328.18707/demo.css" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DIa19328.24853/iconfont.css" />
+    <entry file="file://$PROJECT_DIR$/src/assets/css/common.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DIa19328.18586/demo.css" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DIa9776.34971/demo.css" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DIa9776.37120/iconfont.css" />
+    <entry file="file://$PROJECT_DIR$/src/views/Menu/WeeklyMenuMaintain_new.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="47025">
+          <caret line="2503" column="19" selection-start-line="2503" selection-start-column="19" selection-end-line="2503" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/views/Home.vue">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/views/Menu/MenuMaintain.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="980" column="12" selection-start-line="980" selection-start-column="12" selection-end-line="980" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/views/404.vue">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/views/CCvsBarCode.vue" />
+    <entry file="file://$PROJECT_DIR$/src/views/CCvsBarCode_new.vue" />
+    <entry file="file://$PROJECT_DIR$/src/views/WechatProgram/BarCode.vue" />
+    <entry file="file://$PROJECT_DIR$/src/App.vue">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/views/Main.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-285">
+          <caret line="3" column="39" lean-forward="true" selection-start-line="3" selection-start-column="39" selection-end-line="3" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/api/index.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-57" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/views/Home1.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2242">
+          <caret line="5" column="21" lean-forward="true" selection-start-line="5" selection-start-column="21" selection-end-line="5" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/views/Site/SurveyAnalysis.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="361" column="26" selection-start-line="361" selection-start-column="16" selection-end-line="361" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="57" column="17" selection-start-line="57" selection-start-column="17" selection-end-line="57" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/views/Invoice/Invoice.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="47">
+          <caret line="1842" lean-forward="true" selection-start-line="1842" selection-end-line="1842" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/views/Login.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1729">
+          <caret line="111" column="47" selection-start-line="111" selection-start-column="41" selection-end-line="111" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/assets/js/common.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1083">
+          <caret line="59" column="31" selection-start-line="59" selection-start-column="13" selection-end-line="59" selection-end-column="31" />
+          <folding>
+            <element signature="e#5211#5229#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/views/Site/WeeklyMenuMaintain_v2.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="93" column="23" selection-start-line="93" selection-start-column="8" selection-end-line="93" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/routes.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="21" column="29" selection-start-line="21" selection-start-column="16" selection-end-line="21" selection-end-column="29" />
+          <folding>
+            <element signature="e#0#37#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/api/config.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="437">
+          <caret line="25" column="2" selection-start-line="25" selection-start-column="2" selection-end-line="25" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/views/WechatProgram/Rechargexls.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="10" column="32" lean-forward="true" selection-start-line="10" selection-start-column="32" selection-end-line="10" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/views/SalesOrder/Create.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="52877">
+          <caret line="2821" column="37" selection-start-line="2821" selection-start-column="19" selection-end-line="2821" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/views/WechatProgram/CCvsBarCode.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3496">
+          <caret line="184" column="46" selection-start-line="180" selection-start-column="16" selection-end-line="184" selection-end-column="46" />
+          <folding>
+            <element signature="n#style#0;n#el-row#0;n#div#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#el-select#0;n#template#0;n#el-col#0;n#el-row#0;n#div#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#el-dialog#0;n#div#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#div#0;n#el-dialog#0;n#div#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#1;n#div#0;n#el-dialog#0;n#div#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#el-dialog#0;n#div#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="e#2898#2973#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/api/api.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="91">
+          <caret line="545" column="2" selection-start-line="545" selection-start-column="2" selection-end-line="545" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/views/BarCode.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="138" column="59" selection-start-line="138" selection-start-column="59" selection-end-line="138" selection-end-column="59" />
+          <folding>
+            <element signature="n#style#0;n#el-select#0;n#template#0;n#el-col#0;n#el-row#0;n#div#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#el-input#0;n#div#0;n#el-col#0;n#el-row#0;n#div#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#el-dialog#0;n#div#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#div#0;n#el-dialog#0;n#div#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#1;n#div#0;n#el-dialog#0;n#div#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#el-dialog#0;n#div#0;n#template#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

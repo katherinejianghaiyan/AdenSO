@@ -1,0 +1,253 @@
+[
+  {
+    "name": "Breakfast_monday",
+    "name_zh": " 早餐 ",
+    "cookBook": [
+      {
+        "code": "zc,zc_t01",
+        "name": "中餐 / 大荤",
+        "meal": [
+          {
+            "code": "m00001",
+            "type": "zc,zc_t01",
+            "name": "山药炖小排",
+            "count": 100,
+            "price": 9
+          },
+          {
+            "code": "m00002",
+            "type": "zc,zc_t01",
+            "name": "特色回锅肉",
+            "count": 100,
+            "price": 9
+          }
+        ]
+      },
+      {
+        "code": "zc,zc_t02",
+        "name": "中餐 / 小荤",
+        "meal": [
+          {
+            "code": "m00020",
+            "type": "zc,zc_t02",
+            "name": "芹香肉丝",
+            "count": 100,
+            "price": 4
+          },
+          {
+            "code": "m00021",
+            "type": "zc,zc_t02",
+            "name": "卤汁素鸡",
+            "count": 100,
+            "price": 4
+          }
+        ]
+      },
+      {
+        "code": "zc,zc_t03",
+        "name": "中餐 / 素菜",
+        "meal": [
+          {
+            "code": "m00033",
+            "type": "zc,zc_t03",
+            "name": "葱油银牙",
+            "count": 100,
+            "price": 3
+          },
+          {
+            "code": "m00034",
+            "type": "zc,zc_t03",
+            "name": "蜜汁南瓜",
+            "count": 100,
+            "price": 3
+          }
+        ]
+      },
+      {
+        "code": "zc,zc_t04",
+        "name": "中餐 / 汤",
+        "meal": [
+          {
+            "code": "m00043",
+            "type": "zc,zc_t04",
+            "name": "雪菜冬瓜汤",
+            "count": 100,
+            "price": 2
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Lunch_monday",
+    "name_zh": " 中餐 ",
+    "cookBook": [
+      {
+        "code": "zc,zc_t01",
+        "name": "中餐 / 大荤",
+        "meal": [
+          {
+            "code": "m00003",
+            "type": "zc,zc_t01",
+            "name": "大菜狮子头",
+            "count": 100,
+            "price": 9
+          },
+          {
+            "code": "m00004",
+            "type": "zc,zc_t01",
+            "name": "面拖炸大排",
+            "count": 100,
+            "price": 9
+          },
+          {
+            "code": "m00005",
+            "type": "zc,zc_t01",
+            "name": "酱汁闷鸭根",
+            "count": 100,
+            "price": 9
+          }
+        ]
+      },
+      {
+        "code": "zc,zc_t02",
+        "name": "中餐 / 小荤",
+        "meal": [
+          {
+            "code": "m00017",
+            "type": "zc,zc_t02",
+            "name": "海带鸡丝",
+            "count": 100,
+            "price": 4
+          }
+        ]
+      },
+      {
+        "code": "zc,zc_t03",
+        "name": "中餐 / 素菜",
+        "meal": [
+          {
+            "code": "m00029",
+            "type": "zc,zc_t03",
+            "name": "芹香果仁",
+            "count": 100,
+            "price": 3
+          },
+          {
+            "code": "m00030",
+            "type": "zc,zc_t03",
+            "name": "辣炒葫芦",
+            "count": 100,
+            "price": 3
+          },
+          {
+            "code": "m00031",
+            "type": "zc,zc_t03",
+            "name": "五香萝卜",
+            "count": 100,
+            "price": 3
+          }
+        ]
+      },
+      {
+        "code": "zc,zc_t04",
+        "name": "中餐 / 汤",
+        "meal": [
+          {
+            "code": "m00041",
+            "type": "zc,zc_t04",
+            "name": "紫菜虾皮汤",
+            "count": 100,
+            "price": 2
+          },
+          {
+            "code": "m00042",
+            "type": "zc,zc_t04",
+            "name": "番茄蛋汤",
+            "count": 100,
+            "price": 2
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Dinner_monday",
+    "name_zh": " 晚 餐 ",
+    "cookBook": [
+      {
+        "code": "zc,zc_t01",
+        "name": "中餐 / 大荤",
+        "meal": [
+          {
+            "code": "m00006",
+            "type": "zc,zc_t01",
+            "name": "红焖醇香鸡",
+            "count": 100,
+            "price": 9
+          }
+        ]
+      },
+      {
+        "code": "zc,zc_t02",
+        "name": "中餐 / 小荤",
+        "meal": [
+          {
+            "code": "m00024",
+            "type": "zc,zc_t02",
+            "name": "韭菜炒蛋",
+            "count": 100,
+            "price": 4
+          },
+          {
+            "code": "m00027",
+            "type": "zc,zc_t02",
+            "name": "咸肉百叶",
+            "count": 100,
+            "price": 4
+          }
+        ]
+      },
+      {
+        "code": "zc,zc_t03",
+        "name": "中餐 / 素菜",
+        "meal": [
+          {
+            "code": "m00035",
+            "type": "zc,zc_t03",
+            "name": "辣汁黄瓜",
+            "count": 100,
+            "price": 3
+          }
+        ]
+      },
+      {
+        "code": "zc,zc_t04",
+        "name": "中餐 / 汤",
+        "meal": [
+          {
+            "code": "m00043",
+            "type": "zc,zc_t04",
+            "name": "雪菜冬瓜汤",
+            "count": 100,
+            "price": 2
+          },
+          {
+            "code": "m00044",
+            "type": "zc,zc_t04",
+            "name": "萍菇豆腐汤",
+            "count": 100,
+            "price": 2
+          },
+          {
+            "code": "m00045",
+            "type": "zc,zc_t04",
+            "name": "罗宋汤",
+            "count": 100,
+            "price": 2
+          }
+        ]
+      }
+    ]
+  }
+]

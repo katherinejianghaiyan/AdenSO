@@ -1,0 +1,16 @@
+{
+  "costCenterCode": "",
+  "costCenterName": "",
+  "dbName": "",
+  "supplierCode": "",
+  "supplierCode_bak": "",
+  "classGuid": "",
+  "startDate": "",
+  "startDate_bak": "",
+  "endDate": "",
+  "endDate_bak": "",
+  "defaultSupplier": false,
+  "defaultSupplier_bak": false,
+  "changeFlag": "",
+  "lstSupplierCode": []
+}

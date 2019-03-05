@@ -1,0 +1,18 @@
+[
+  {
+    "code": "CNY",
+    "name": "人民币"
+  },
+  {
+    "code": "USD",
+    "name": "美元"
+  },
+  {
+    "code": "TWD",
+    "name": "台币"
+  },
+  {
+    "code": "EUR",
+    "name": "欧元"
+  }
+]

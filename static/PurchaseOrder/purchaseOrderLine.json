@@ -1,0 +1,28 @@
+{
+  "lineGuid": "",
+  "headGuid": "",
+  "lineNumber": "",
+  "supplierCode": "",
+  "warehouseCode": "",
+  "itemDescription": "",
+  "itemCode": "",
+  "unit": "",
+  "costCenter": "",
+  "remark": "",
+  "erpNumber": "",
+  "purchaseOrderLineDetail": {
+    "id": -1,
+    "lineGuid": "",
+    "costUnit": "",
+    "qty": "1",
+    "qty_back": "1",
+    "price": "",
+    "createUser": "",
+    "createDate": "",
+    "deleteUser": "",
+    "deleteDate": "",
+    "totalPrice": ""
+  },
+  "amt": "",
+  "itemData": []
+}

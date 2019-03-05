@@ -1,0 +1,79 @@
+[
+  {
+    "supplierCode": "110436",
+    "code": "1200319",
+    "name": "猪肉",
+    "unit": "PEC",
+    "qty": 98,
+    "adjQty": 0,
+    "totalQty": 98,
+    "price": 18,
+    "totalAmt": 0
+  },
+  {
+    "supplierCode": "110436",
+    "code": "1200436",
+    "name": "鸡肉",
+    "unit": "PEC",
+    "qty": 156,
+    "adjQty": 0,
+    "totalQty": 156,
+    "price": 16,
+    "totalAmt": 0
+  },
+  {
+    "supplierCode": "110436",
+    "code": "1200102",
+    "name": "海蜇皮",
+    "unit": "PEC",
+    "qty": 300,
+    "adjQty": 0,
+    "totalQty": 300,
+    "price": 5,
+    "totalAmt": 0
+  },
+  {
+    "supplierCode": "110039",
+    "code": "1200118",
+    "name": "芹菜",
+    "unit": "PEC",
+    "qty": 200,
+    "adjQty": 0,
+    "totalQty": 200,
+    "price": 3,
+    "totalAmt": 0
+  },
+  {
+    "supplierCode": "110039",
+    "code": "1200119",
+    "name": "毛豆",
+    "unit": "PEC",
+    "qty": 240,
+    "adjQty": 0,
+    "totalQty": 240,
+    "price": 3,
+    "totalAmt": 0
+  },
+  {
+    "supplierCode": "110319",
+    "code": "1201123",
+    "name": "小排",
+    "unit": "PEC",
+    "qty": 160,
+    "adjQty": 0,
+    "totalQty": 160,
+    "price": 21,
+    "totalAmt": 0
+  },
+  {
+    "supplierCode": "110319",
+    "code": "1201287",
+    "name": "青椒",
+    "unit": "PEC",
+    "qty": 110,
+    "adjQty": 0,
+    "totalQty": 110,
+    "price": 3,
+    "totalAmt": 0
+  }
+]
