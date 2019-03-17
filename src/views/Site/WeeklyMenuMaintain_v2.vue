@@ -63,7 +63,9 @@
                     label="类别"
                     width="88">
                 <template slot-scope="scope">
-                    <el-input v-model="scope.row.windowType" size="small" @change.native="pushNewRow(scope.$index)"></el-input>
+                    <el-input v-model="scope.row.windowType" size="small" @change.native="pushNewRow(scope.$index)" placeholder="中文内容"></el-input>
+                    <el-input v-model="scope.row.windowType_en" size="small" placeholder="English Input">
+                    </el-input>
                 </template>
             </el-table-column>
             <el-table-column
@@ -72,10 +74,12 @@
                     header-align="center"
                     :label="item.name + ' ' + weekData[item.day + '_date'].substr(5,10)">
                 <template slot-scope="scope">
-                    <el-autocomplete v-model="scope.row[item.day + '_foodNames']" class="inline-input" placeholder="请输入内容" size="small"
+                    <el-autocomplete v-model="scope.row[item.day + '_foodNames']" class="inline-input" placeholder="中文内容" size="small"
                                      :fetch-suggestions="querySearch" @change.native="pushNewRow(scope.$index)"
                                      @select="pushNewRow(scope.$index)"
-                    ></el-autocomplete>
+                    ></el-autocomplete><br>
+                    <el-input v-model="scope.row[item.day + '_foodNames_en']" size="small" placeholder="English Input">
+                    </el-input>
                 </template>
             </el-table-column>
             <el-table-column label="操作" align="center" width="80">
@@ -225,7 +229,6 @@
                 if(index+1===this.menuDataFomat.length){
                     this.pushRow();
                 }
-
             },
             querySearch(queryString, cb) {
                 var options=this.itemOption;
@@ -279,8 +282,7 @@
                         createUser: this.user.account,
                         menuOrderHeadObj: menuTemp
                     };
-                    console.log(param);
-                    this.loading = false;
+                    //this.loading = false;
                     // 调用RFC进行保存
                     SaveMenuOrder_SUZHYC(param).then(data => {
                         if (data && data.code == "200") {
@@ -297,7 +299,6 @@
                             });
                         }
                     });
-
                 }).catch(() => {
                     this.loading = false;
                 });
@@ -462,9 +463,11 @@
                 this.menuDataFomat = [];
 
                 for (var mos of lstMenuOrderHead) {
+                    //console.log(mos);
                     this.menuDataFomat.push({
                         mealCode:mos.mealCode,
                         windowType:mos.windowType,
+                        windowType_en:mos.windowType_en,
                         mon_foodNames:mos.foodNames1,
                         tue_foodNames:mos.foodNames2,
                         wed_foodNames:mos.foodNames3,
@@ -472,8 +475,17 @@
                         fri_foodNames:mos.foodNames5,
                         sat_foodNames:mos.foodNames6,
                         sun_foodNames:mos.foodNames7,
+
+                        mon_foodNames_en:mos.foodNames_en1,
+                        tue_foodNames_en:mos.foodNames_en2,
+                        wed_foodNames_en:mos.foodNames_en3,
+                        thu_foodNames_en:mos.foodNames_en4,
+                        fri_foodNames_en:mos.foodNames_en5,
+                        sat_foodNames_en:mos.foodNames_en6,
+                        sun_foodNames_en:mos.foodNames_en7,
                     });
                 }
+                // console.log(this.menuDataFomat);
                 this.loading = false;
             },
             // 保存MenuOrder
@@ -498,6 +510,7 @@
                         menuOrderHeadObj.push({
                             mealCode:line.mealCode,
                             windowType:line.windowType,
+                            windowType_en:line.windowType_en,
                             foodNames1:line["mon_foodNames"],
                             foodNames2:line["tue_foodNames"],
                             foodNames3:line["wed_foodNames"],
@@ -505,6 +518,14 @@
                             foodNames5:line["fri_foodNames"],
                             foodNames6:line["sat_foodNames"],
                             foodNames7:line["sun_foodNames"],
+
+                            foodNames_en1:line["mon_foodNames_en"],
+                            foodNames_en2:line["tue_foodNames_en"],
+                            foodNames_en3:line["wed_foodNames_en"],
+                            foodNames_en4:line["thu_foodNames_en"],
+                            foodNames_en5:line["fri_foodNames_en"],
+                            foodNames_en6:line["sat_foodNames_en"],
+                            foodNames_en7:line["sun_foodNames_en"],
                         });
                     }
                     param.menuOrderHeadObj=menuOrderHeadObj;

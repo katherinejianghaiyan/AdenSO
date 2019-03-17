@@ -162,7 +162,7 @@ let routes = [
                 component: resolve => require(['./views/Site/WeeklyMenuMaintain_v2.vue'], resolve),
                 name: 'M000030', // 周菜单维护
                 iconCls: 'fa fa-align-justify',
-                action: 'menu-weekly',
+                action: 'menu-weekly-v2',
                 hidden: true,
             },
             {

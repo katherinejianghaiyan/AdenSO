@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9378ef32-927f-40fd-b123-32427318b4fe" name="Default" comment="" />
+    <list default="true" id="9378ef32-927f-40fd-b123-32427318b4fe" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/src/views/Site/WeeklyMenuMaintain_v2.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/views/Site/WeeklyMenuMaintain_v2.vue" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -14,18 +16,15 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="BarCode.vue" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/views/BarCode.vue">
+      <file leaf-file-name="WeeklyMenuMaintain_v2.vue" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/views/Site/WeeklyMenuMaintain_v2.vue">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="57">
-              <caret line="138" column="59" selection-start-line="138" selection-start-column="59" selection-end-line="138" selection-end-column="59" />
+            <state relative-caret-position="1225">
+              <caret line="513" column="29" selection-start-line="513" selection-start-column="29" selection-end-line="513" selection-end-column="38" />
               <folding>
-                <element signature="n#style#0;n#el-select#0;n#template#0;n#el-col#0;n#el-row#0;n#div#0;n#template#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#el-input#0;n#div#0;n#el-col#0;n#el-row#0;n#div#0;n#template#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#0;n#el-dialog#0;n#div#0;n#template#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#span#0;n#div#0;n#el-dialog#0;n#div#0;n#template#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#span#1;n#div#0;n#el-dialog#0;n#div#0;n#template#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#1;n#el-dialog#0;n#div#0;n#template#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#el-table#0;n#div#0;n#template#0;n#!!top" expanded="true" />
+                <element signature="e#4530#4661#0" expanded="true" />
+                <element signature="e#4857#4917#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -34,56 +33,8 @@
       <file leaf-file-name="api.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/api/api.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="91">
-              <caret line="545" column="2" selection-start-line="545" selection-start-column="2" selection-end-line="545" selection-end-column="2" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="CCvsBarCode.vue" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/views/WechatProgram/CCvsBarCode.vue">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="3496">
-              <caret line="184" column="46" selection-start-line="180" selection-start-column="16" selection-end-line="184" selection-end-column="46" />
-              <folding>
-                <element signature="n#style#0;n#el-row#0;n#div#0;n#template#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#el-select#0;n#template#0;n#el-col#0;n#el-row#0;n#div#0;n#template#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#0;n#el-dialog#0;n#div#0;n#template#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#span#0;n#div#0;n#el-dialog#0;n#div#0;n#template#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#span#1;n#div#0;n#el-dialog#0;n#div#0;n#template#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#1;n#el-dialog#0;n#div#0;n#template#0;n#!!top" expanded="true" />
-                <element signature="e#2898#2973#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Create.vue" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/views/SalesOrder/Create.vue">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="52877">
-              <caret line="2821" column="37" selection-start-line="2821" selection-start-column="19" selection-end-line="2821" selection-end-column="37" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="common.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/assets/js/common.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1083">
-              <caret line="59" column="31" selection-start-line="59" selection-start-column="13" selection-end-line="59" selection-end-column="31" />
-              <folding>
-                <element signature="e#5211#5229#0" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="config.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/api/config.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="437">
-              <caret line="25" column="2" selection-start-line="25" selection-start-column="2" selection-end-line="25" selection-end-column="2" />
+            <state relative-caret-position="9899">
+              <caret line="523" column="33" selection-start-line="523" selection-start-column="13" selection-end-line="523" selection-end-column="33" />
             </state>
           </provider>
         </entry>
@@ -92,36 +43,36 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>window.document.getElementById</find>
-      <find>TargetDiv</find>
-      <find>blurDiv</find>
-      <find>img1</find>
-      <find>websocketonmessage</find>
-      <find>onmessage</find>
-      <find>wsuri</find>
-      <find>costCenter</find>
-      <find>console</find>
-      <find>window.document</find>
-      <find>indexOf('?'</find>
-      <find>initWebSocket</find>
-      <find>getCCOptions</find>
+      <find>CancelEdit</find>
+      <find>CopyCheckBox</find>
+      <find>showCopyToolBar</find>
+      <find>select</find>
+      <find>this.result</find>
+      <find>result</find>
+      <find>avatar</find>
+      <find>Val</find>
+      <find>changeImage</find>
+      <find>picStream</find>
+      <find>uploadSectionFile</find>
+      <find>CreateEdit</find>
+      <find>filterData</find>
+      <find>复制</find>
+      <find>setPost</find>
+      <find>testClipper</find>
+      <find>importfxx</find>
+      <find>withImport</find>
+      <find>format</find>
+      <find>getStartDate</find>
+      <find>GetCCWhs_SUZCHY</find>
+      <find>action</find>
+      <find>res</find>
+      <find>GetStartDate</find>
       <find>GetCompanySite</find>
-      <find>siteGuid</find>
-      <find>guid</find>
-      <find>dialogTablebarCode</find>
-      <find>cardno</find>
-      <find>console.log</find>
-      <find>reset</find>
-      <find>set</find>
-      <find>GetCCWhs</find>
-      <find>tbl</find>
-      <find>seeCCWhs</find>
-      <find>session</find>
-      <find>getRowFromArray</find>
-      <find>ccWhsOption</find>
-      <find>isNullOrWhiteSpace</find>
-      <find>OfficalAccountQRCode</find>
-      <find>GetCCOptions</find>
+      <find>SaveMenuOrder_SUZHYC</find>
+      <find>SaveMenu</find>
+      <find>GetMenuOrder</find>
+      <find>SetMenuData</find>
+      <find>SaveMenuOrder</find>
     </findStrings>
     <replaceStrings>
       <replace>userID</replace>
@@ -140,26 +91,26 @@
         <option value="$PROJECT_DIR$/src/views/Site/FGItemPriceMaintain.vue" />
         <option value="$PROJECT_DIR$/src/components/ChangeSupplierofItem.vue" />
         <option value="$PROJECT_DIR$/src/views/Company/subjectMaintenance.vue" />
-        <option value="$PROJECT_DIR$/src/views/Site/WeeklyMenuMaintain_v2.vue" />
         <option value="$PROJECT_DIR$/src/views/SalesOrder/Search.vue" />
         <option value="$PROJECT_DIR$/src/views/Home.vue" />
         <option value="$PROJECT_DIR$/src/components/UploadPic.vue" />
-        <option value="$PROJECT_DIR$/build/webpack.base.conf.js" />
         <option value="$PROJECT_DIR$/src/views/SalesOrder/Create.vue" />
         <option value="$PROJECT_DIR$/src/views/Site/SitePosts.vue" />
-        <option value="$PROJECT_DIR$/src/views/Site/SurveyAnalysis.vue" />
         <option value="$PROJECT_DIR$/src/components/ItemsSearchDialog.vue" />
         <option value="$PROJECT_DIR$/src/assets/js/common.js" />
-        <option value="$PROJECT_DIR$/src/views/Menu/WeeklyMenuMaintain_new.vue" />
-        <option value="$PROJECT_DIR$/src/views/Menu/MenuMaintain.vue" />
         <option value="$PROJECT_DIR$/src/views/CCvsBarCode.vue" />
         <option value="$PROJECT_DIR$/src/views/CCvsBarCode_new.vue" />
         <option value="$PROJECT_DIR$/src/views/Login.vue" />
-        <option value="$PROJECT_DIR$/src/routes.js" />
-        <option value="$PROJECT_DIR$/src/main.js" />
         <option value="$PROJECT_DIR$/src/views/WechatProgram/CCvsBarCode.vue" />
         <option value="$PROJECT_DIR$/src/api/api.js" />
         <option value="$PROJECT_DIR$/src/views/BarCode.vue" />
+        <option value="$PROJECT_DIR$/src/routes.js" />
+        <option value="$PROJECT_DIR$/src/views/Menu/WeeklyMenuMaintain_new.vue" />
+        <option value="$PROJECT_DIR$/src/views/Menu/MenuMaintain.vue" />
+        <option value="$PROJECT_DIR$/build/webpack.base.conf.js" />
+        <option value="$PROJECT_DIR$/src/main.js" />
+        <option value="$PROJECT_DIR$/src/views/Site/SurveyAnalysis.vue" />
+        <option value="$PROJECT_DIR$/src/views/Site/WeeklyMenuMaintain_v2.vue" />
       </list>
     </option>
   </component>
@@ -179,24 +130,28 @@
       <path value="$PROJECT_DIR$/package.json" />
     </packageJsonPaths>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-11" />
-    <option name="y" value="95" />
-    <option name="width" value="1382" />
-    <option name="height" value="744" />
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="595" />
+    <option name="y" value="26" />
+    <option name="width" value="969" />
+    <option name="height" value="735" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
               <item name="adenSO" type="b2602c69:ProjectViewProjectNode" />
               <item name="adenSO" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="adenSO" type="b2602c69:ProjectViewProjectNode" />
+              <item name="adenSO" type="462c0819:PsiDirectoryNode" />
+              <item name="build" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="adenSO" type="b2602c69:ProjectViewProjectNode" />
@@ -213,6 +168,25 @@
               <item name="adenSO" type="b2602c69:ProjectViewProjectNode" />
               <item name="adenSO" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="adenSO" type="b2602c69:ProjectViewProjectNode" />
+              <item name="adenSO" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+              <item name="js" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="adenSO" type="b2602c69:ProjectViewProjectNode" />
+              <item name="adenSO" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="excel" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="adenSO" type="b2602c69:ProjectViewProjectNode" />
+              <item name="adenSO" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="views" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -220,19 +194,13 @@
               <item name="adenSO" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="views" type="462c0819:PsiDirectoryNode" />
-              <item name="SalesOrder" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="adenSO" type="b2602c69:ProjectViewProjectNode" />
-              <item name="adenSO" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="views" type="462c0819:PsiDirectoryNode" />
-              <item name="WechatProgram" type="462c0819:PsiDirectoryNode" />
+              <item name="Site" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -242,11 +210,12 @@
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\WorkSpace\AdenSO\adenSO\src\excel" />
+      <recent name="D:\WorkSpace\AdenSO\adenSO\src" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\WorkSpace\AdenSO\adenSO\src\views" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\WorkSpace\AdenSO\adenSO\src" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -421,34 +390,28 @@
       <workItem from="1551667390201" duration="1696000" />
       <workItem from="1551669194276" duration="4246000" />
       <workItem from="1551681909560" duration="4808000" />
-    </task>
-    <task id="LOCAL-00006" summary="commit">
-      <created>1541758783679</created>
-      <option name="number" value="00006" />
-      <option name="presentableId" value="LOCAL-00006" />
-      <option name="project" value="LOCAL" />
-      <updated>1541758783679</updated>
-    </task>
-    <task id="LOCAL-00007" summary="commit">
-      <created>1541822525975</created>
-      <option name="number" value="00007" />
-      <option name="presentableId" value="LOCAL-00007" />
-      <option name="project" value="LOCAL" />
-      <updated>1541822525975</updated>
-    </task>
-    <task id="LOCAL-00008" summary="commit">
-      <created>1541831524923</created>
-      <option name="number" value="00008" />
-      <option name="presentableId" value="LOCAL-00008" />
-      <option name="project" value="LOCAL" />
-      <updated>1541831524923</updated>
-    </task>
-    <task id="LOCAL-00009" summary="commit">
-      <created>1541859738962</created>
-      <option name="number" value="00009" />
-      <option name="presentableId" value="LOCAL-00009" />
-      <option name="project" value="LOCAL" />
-      <updated>1541859738962</updated>
+      <workItem from="1551773781736" duration="2758000" />
+      <workItem from="1551776545590" duration="3187000" />
+      <workItem from="1551792095768" duration="6766000" />
+      <workItem from="1551838217191" duration="21886000" />
+      <workItem from="1551880153325" duration="2843000" />
+      <workItem from="1551922754246" duration="2710000" />
+      <workItem from="1551946319234" duration="1632000" />
+      <workItem from="1551963936684" duration="5848000" />
+      <workItem from="1552012680981" duration="1488000" />
+      <workItem from="1552014525399" duration="14685000" />
+      <workItem from="1552098477464" duration="5268000" />
+      <workItem from="1552126903513" duration="12376000" />
+      <workItem from="1552214159409" duration="7676000" />
+      <workItem from="1552222322330" duration="5229000" />
+      <workItem from="1552269281644" duration="666000" />
+      <workItem from="1552272709553" duration="1519000" />
+      <workItem from="1552356781379" duration="1187000" />
+      <workItem from="1552377045860" duration="3809000" />
+      <workItem from="1552454775503" duration="2652000" />
+      <workItem from="1552531798280" duration="8631000" />
+      <workItem from="1552614968016" duration="15825000" />
+      <workItem from="1552817545355" duration="282000" />
     </task>
     <task id="LOCAL-00010" summary="commit">
       <created>1542166849056</created>
@@ -765,11 +728,39 @@
       <option name="project" value="LOCAL" />
       <updated>1551685371953</updated>
     </task>
-    <option name="localTasksCounter" value="55" />
+    <task id="LOCAL-00055" summary="commit">
+      <created>1551863520073</created>
+      <option name="number" value="00055" />
+      <option name="presentableId" value="LOCAL-00055" />
+      <option name="project" value="LOCAL" />
+      <updated>1551863520075</updated>
+    </task>
+    <task id="LOCAL-00056" summary="commit">
+      <created>1551971549417</created>
+      <option name="number" value="00056" />
+      <option name="presentableId" value="LOCAL-00056" />
+      <option name="project" value="LOCAL" />
+      <updated>1551971549420</updated>
+    </task>
+    <task id="LOCAL-00057" summary="commit">
+      <created>1552038695260</created>
+      <option name="number" value="00057" />
+      <option name="presentableId" value="LOCAL-00057" />
+      <option name="project" value="LOCAL" />
+      <updated>1552038695262</updated>
+    </task>
+    <task id="LOCAL-00058" summary="commit">
+      <created>1552635381136</created>
+      <option name="number" value="00058" />
+      <option name="presentableId" value="LOCAL-00058" />
+      <option name="project" value="LOCAL" />
+      <updated>1552635381137</updated>
+    </task>
+    <option name="localTasksCounter" value="59" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="900355000" />
+    <option name="totallyTimeSpent" value="1029278000" />
   </component>
   <component name="TodoView" selected-index="1">
     <todo-panel id="selected-file">
@@ -781,10 +772,9 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="true" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.20684524" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.171875" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.3289256" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.5066964" side_tool="true" weight="0.34545454" />
@@ -792,17 +782,17 @@
       <window_info id="npm" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.49330357" weight="0.338843" />
+      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.49330357" weight="0.25950414" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="bottom" id="Messages" order="7" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3289256" />
+      <window_info anchor="bottom" id="Messages" order="7" />
     </layout>
     <layout-to-restore>
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -848,39 +838,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/config/dev.env.js">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/config/index.js">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/views/Menu/WeeklyMenuMaintain.vue">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="104">
-          <caret line="11" selection-start-line="11" selection-end-line="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/PurchaseNewItem.vue">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3070">
-          <caret line="853" column="9" lean-forward="true" selection-start-line="853" selection-start-column="9" selection-end-line="853" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/ItemsSearchDialog.vue">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2128">
-          <caret line="8" column="52" lean-forward="true" selection-start-line="8" selection-start-column="52" selection-end-line="8" selection-end-column="52" />
-          <folding>
-            <element signature="n#style#0;n#el-cascader#0;n#el-form-item#0;n#div#0;n#el-form#0;n#el-col#0;n#el-row#0;n#el-dialog#0;n#div#0;n#template#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#el-col#0;n#el-row#0;n#div#0;n#transition#0;n#el-dialog#0;n#div#0;n#template#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#pre#0;n#div#0;n#el-col#0;n#el-row#0;n#div#0;n#transition#0;n#el-dialog#0;n#div#0;n#template#0;n#!!top" expanded="true" />
-            <element signature="e#33761#33775#0" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/components/RMItemDialog.vue">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -947,13 +904,6 @@
     <entry file="file://$PROJECT_DIR$/src/assets/js/Export2Excel.js">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/views/Site/SitePosts.vue">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="175">
-          <caret line="381" column="52" selection-start-line="381" selection-start-column="44" selection-end-line="381" selection-end-column="52" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DIa19328.18707/demo.css" />
     <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DIa19328.24853/iconfont.css" />
     <entry file="file://$PROJECT_DIR$/src/assets/css/common.css">
@@ -962,39 +912,12 @@
     <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DIa19328.18586/demo.css" />
     <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DIa9776.34971/demo.css" />
     <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DIa9776.37120/iconfont.css" />
-    <entry file="file://$PROJECT_DIR$/src/views/Menu/WeeklyMenuMaintain_new.vue">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="47025">
-          <caret line="2503" column="19" selection-start-line="2503" selection-start-column="19" selection-end-line="2503" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/views/Home.vue">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/views/Menu/MenuMaintain.vue">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="19">
-          <caret line="980" column="12" selection-start-line="980" selection-start-column="12" selection-end-line="980" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/views/404.vue">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/src/views/CCvsBarCode.vue" />
     <entry file="file://$PROJECT_DIR$/src/views/CCvsBarCode_new.vue" />
     <entry file="file://$PROJECT_DIR$/src/views/WechatProgram/BarCode.vue" />
-    <entry file="file://$PROJECT_DIR$/src/App.vue">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/views/Main.vue">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-285">
-          <caret line="3" column="39" lean-forward="true" selection-start-line="3" selection-start-column="39" selection-end-line="3" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/api/index.js">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -1010,58 +933,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/views/Site/SurveyAnalysis.vue">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="19">
-          <caret line="361" column="26" selection-start-line="361" selection-start-column="16" selection-end-line="361" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="57" column="17" selection-start-line="57" selection-start-column="17" selection-end-line="57" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/views/Invoice/Invoice.vue">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="47">
           <caret line="1842" lean-forward="true" selection-start-line="1842" selection-end-line="1842" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/views/Login.vue">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1729">
-          <caret line="111" column="47" selection-start-line="111" selection-start-column="41" selection-end-line="111" selection-end-column="47" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/assets/js/common.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1083">
-          <caret line="59" column="31" selection-start-line="59" selection-start-column="13" selection-end-line="59" selection-end-column="31" />
-          <folding>
-            <element signature="e#5211#5229#0" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/views/Site/WeeklyMenuMaintain_v2.vue">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="93" column="23" selection-start-line="93" selection-start-column="8" selection-end-line="93" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/routes.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="19">
-          <caret line="21" column="29" selection-start-line="21" selection-start-column="16" selection-end-line="21" selection-end-column="29" />
-          <folding>
-            <element signature="e#0#37#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1079,47 +954,138 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/views/SalesOrder/Create.vue">
+    <entry file="file://$PROJECT_DIR$/src/views/BarCode.vue">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="52877">
-          <caret line="2821" column="37" selection-start-line="2821" selection-start-column="19" selection-end-line="2821" selection-end-column="37" />
+        <state relative-caret-position="190">
+          <caret line="10" column="48" lean-forward="true" selection-start-line="10" selection-start-column="48" selection-end-line="10" selection-end-column="48" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/views/WechatProgram/CCvsBarCode.vue">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3496">
+        <state relative-caret-position="19">
           <caret line="184" column="46" selection-start-line="180" selection-start-column="16" selection-end-line="184" selection-end-column="46" />
-          <folding>
-            <element signature="n#style#0;n#el-row#0;n#div#0;n#template#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#el-select#0;n#template#0;n#el-col#0;n#el-row#0;n#div#0;n#template#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#el-dialog#0;n#div#0;n#template#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#span#0;n#div#0;n#el-dialog#0;n#div#0;n#template#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#span#1;n#div#0;n#el-dialog#0;n#div#0;n#template#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#1;n#el-dialog#0;n#div#0;n#template#0;n#!!top" expanded="true" />
-            <element signature="e#2898#2973#0" expanded="true" />
-          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/views/SalesOrder/Create.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="2821" column="37" selection-start-line="2821" selection-start-column="19" selection-end-line="2821" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/App.vue">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/assets/js/common.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1881">
+          <caret line="101" column="26" selection-start-line="101" selection-start-column="26" selection-end-line="101" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/views/Login.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2033">
+          <caret line="19" column="67" selection-start-line="19" selection-start-column="67" selection-end-line="19" selection-end-column="67" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/views/Home.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2926">
+          <caret line="163" column="60" selection-start-line="163" selection-start-column="56" selection-end-line="163" selection-end-column="62" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/routes.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="177" column="34" lean-forward="true" selection-start-line="177" selection-start-column="34" selection-end-line="177" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/views/Menu/WeeklyMenuMaintain_new.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="39805">
+          <caret line="2123" column="36" selection-start-line="2123" selection-start-column="36" selection-end-line="2123" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/views/Menu/MenuMaintain.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17157">
+          <caret line="904" column="62" selection-start-line="904" selection-start-column="62" selection-end-line="904" selection-end-column="62" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/views/Main.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="3" column="39" lean-forward="true" selection-start-line="3" selection-start-column="39" selection-end-line="3" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/excel/Blob.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/excel/Export2Excel.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/views/Site/SitePosts.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="254" column="26" selection-start-line="254" selection-start-column="26" selection-end-line="254" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external/lib.dom.d.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="191">
+          <caret line="2939" column="13" selection-start-line="2939" selection-start-column="13" selection-end-line="2939" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build/webpack.base.conf.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="34" column="29" selection-start-line="34" selection-start-column="29" selection-end-line="34" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-324">
+          <caret line="18" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/views/Site/SurveyAnalysis.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="921">
+          <caret line="297" column="32" selection-start-line="297" selection-start-column="32" selection-end-line="297" selection-end-column="32" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/api/api.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="91">
-          <caret line="545" column="2" selection-start-line="545" selection-start-column="2" selection-end-line="545" selection-end-column="2" />
+        <state relative-caret-position="9899">
+          <caret line="523" column="33" selection-start-line="523" selection-start-column="13" selection-end-line="523" selection-end-column="33" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/views/BarCode.vue">
+    <entry file="file://$PROJECT_DIR$/src/views/Site/WeeklyMenuMaintain_v2.vue">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="57">
-          <caret line="138" column="59" selection-start-line="138" selection-start-column="59" selection-end-line="138" selection-end-column="59" />
+        <state relative-caret-position="1225">
+          <caret line="513" column="29" selection-start-line="513" selection-start-column="29" selection-end-line="513" selection-end-column="38" />
           <folding>
-            <element signature="n#style#0;n#el-select#0;n#template#0;n#el-col#0;n#el-row#0;n#div#0;n#template#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#el-input#0;n#div#0;n#el-col#0;n#el-row#0;n#div#0;n#template#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#el-dialog#0;n#div#0;n#template#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#span#0;n#div#0;n#el-dialog#0;n#div#0;n#template#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#span#1;n#div#0;n#el-dialog#0;n#div#0;n#template#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#1;n#el-dialog#0;n#div#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#el-table#0;n#div#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="e#4530#4661#0" expanded="true" />
+            <element signature="e#4857#4917#0" expanded="true" />
           </folding>
         </state>
       </provider>

@@ -293,7 +293,7 @@
                 this.getUser();
                 this.loading = true;
                 GetCompanySite({
-                    action: 'site-pricelist',
+                    action: 'site-SurveyAnalysis',
                     userGuid: this.user.userGuid
                 }).then(data => {
                     if (data && data.code === "200") {
